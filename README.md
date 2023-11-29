@@ -8,4 +8,4 @@
 flutter_map: ^3.1.0
   geolocator: ^9.0.2
   latlong2: ^0.8.1
-- Estas dependencias pueden tener otras versones mas reciente en pub.dev.com se puede verificar las ultimas versiones.
+- Estas dependencias pueden tener otras versiones mas reciente en pub.dev.com se puede verificar las ultimas versiones.
