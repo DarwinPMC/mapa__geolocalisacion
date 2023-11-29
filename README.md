@@ -8,3 +8,4 @@ flutter_map: ^3.1.0
   latlong2: ^0.8.1
 - Estas dependencias pueden tener otras versiones mas reciente en pub.dev.com se puede verificar las ultimas versiones.
 - Para dar los temas se uso Material3
+- Se creo una carpeta mapscreen para desarrolar por separado con el main.dart
